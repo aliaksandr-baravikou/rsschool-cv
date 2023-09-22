@@ -1,1 +1,1 @@
-<https://Borik19.github.io/rsschool-cv/cv>
+<https://aliaksandr-baravikou.github.io/rsschool-cv/cv>

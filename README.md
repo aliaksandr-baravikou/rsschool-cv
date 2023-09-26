@@ -1,1 +1,1 @@
-<git >
+<https://aliaksandr-baravikou.github.io/rsschool-cv/cv>
